@@ -3,9 +3,5 @@
 .DS_STORE
 build/
 dist/
-deploy/
-src/**/*.css
-src/**/*.css.map
-src/**/*.scssc
 coverage/
 /node_modules/
