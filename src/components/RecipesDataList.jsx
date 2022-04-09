@@ -15,7 +15,7 @@ const RecipesDataList = ({title, tage}) => {
     };
 
     loadData();
-  }, [type]);
+  }, [type, tage]);
 
 
 
